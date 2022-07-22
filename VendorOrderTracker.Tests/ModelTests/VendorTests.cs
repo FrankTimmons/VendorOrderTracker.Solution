@@ -12,7 +12,7 @@ namespace VendorOrderTracker.Tests
     public void VendorConstructor_CreateVendorInstance_Vendor()
     {
       Vendor newVendor = new Vendor("test vendor");
-      Assert.AreEqual(typeof(Vendor), "Vendor");
+      Assert.AreEqual(typeof(Vendor), newVendor.GetType());
     }
   }
 }
