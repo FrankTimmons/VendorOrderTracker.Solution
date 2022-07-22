@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using VendorOrderTracker.Models;
 
-namespace VendorOrderTracker.Tests
+namespace VendorOrderTracker.Tests 
 {
   [TestClass]
   public class VendorTests
