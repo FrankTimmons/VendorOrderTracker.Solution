@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace MusicOrganizer
+namespace VendorOrderTracker
 {
   public class Program
   {
